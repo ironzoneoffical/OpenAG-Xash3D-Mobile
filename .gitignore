@@ -1,0 +1,34 @@
+# Build directories
+build/
+Build/
+bin/
+obj/
+libs/
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+*.sdf
+*.opensdf
+
+# Android
+*.apk
+*.aab
+.gradle/
+local.properties
+
+# CMake
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Generated files
+current_version.h
+
+# OS
+.DS_Store
+Thumbs.db
